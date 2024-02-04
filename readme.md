@@ -1,4 +1,4 @@
-# Automatic file backup
+# Simple backup System
 ## How to execute files
 __STEP1__ :  Open the terminal linux and directory to the ___backup.sh___
 >  cd {directory_PATH}
